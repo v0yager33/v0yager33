@@ -1,6 +1,6 @@
-# Voyager33
+# Kaixuan Du
 
-Beihang University
+Master student, Beihang University
 
 37 Xueyuan Rd., Haidian Dist.
 
@@ -8,8 +8,8 @@ Beijing, China, 100191
 
 ## Education
 
-- 2024.09-*Present* School of Automation and Electrical Engineering，Beihang University M.Eng.
-- 2020.09-2024.06 School of Science & Technology, Southwest Jiaotong University B.Eng.
+- 2024.09-*Present*    School of Automation and Electrical Engineering，Beihang University M.Eng.
+- 2020.09-2024.06    School of Science & Technology, Southwest Jiaotong University B.Eng.
 
 ## Research Interests
 
@@ -19,7 +19,7 @@ Beijing, China, 100191
 
 ## Skills
 
-- Programming Language: **Python**; C++; Java; SQL; etc.
+- Programming Language: **Python**; **C++**; Java; SQL; etc.
 - Typesetting Language: **LaTeX**; Markdown
 - Programming Framework: **PyTorch**; TensorFlow; LangChain; etc.
 
@@ -31,6 +31,8 @@ Beijing, China, 100191
 I'm always open to collaboration, discussion, or opportunities.  
 You can reach me at:  
 📧 Email: kxdu@foxmail.com  
+💬 Rednote: https://www.xiaohongshu.com/user/profile/66bc733e000000001d031cf4
+🌱 Zhihu: https://www.zhihu.com/people/voyager33
 
 ---
 
