@@ -1,4 +1,5 @@
-# Kaixuan Du
+## 👋 Welcome to My GitHub!
+## Kaixuan Du
 
 Master student, Beihang University
 
@@ -30,9 +31,9 @@ Beijing, China, 100191
 
 I'm always open to collaboration, discussion, or opportunities.  
 You can reach me at:  
-📧 Email: kxdu@foxmail.com  
-💬 Rednote: https://www.xiaohongshu.com/user/profile/66bc733e000000001d031cf4
-🌱 Zhihu: https://www.zhihu.com/people/voyager33
+ 📧 Email: kxdu@foxmail.com  
+ 🌱 Zhihu: https://www.zhihu.com/people/voyager33
+ 💬 Rednote: https://www.xiaohongshu.com/user/profile/66bc733e000000001d031cf4
 
 ---
 
