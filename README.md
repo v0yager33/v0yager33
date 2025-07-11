@@ -1,10 +1,6 @@
 ## 👋 Welcome to My GitHub!
 Hi, I'm Kaixuan Du, currently pursuing my Master's degree at Beihang University, focusing on LLM technology and System Modeling & Simulation.  
 
-This is my personal GitHub profile — feel free to explore and get in touch!
-
----
-
 
 ## 🧑‍🎓 About Me
 
@@ -24,11 +20,12 @@ Beijing, China, 100191
 ## 📖 Research Interests
 
 - Large Language Models (LLM)
-  - Fine-turning & Alignment, Intelligent Agents
+  - Fine-turning & Alignment, RLHF, Intelligent Agents
 - System Modeling and Simulation
+  - Intelligent Behavior Modeling, RL-based Agent Competition, etc.
 
 
-## ✋ Skills
+## 🍃 Skills
 
 - Programming Language: **Python**; **C++**; Java; SQL; etc.
 - Typesetting Language: **LaTeX**; Markdown
