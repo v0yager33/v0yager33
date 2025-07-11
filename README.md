@@ -1,31 +1,31 @@
-## 👋 Welcome to My GitHub!
+## 👋  Welcome to My GitHub!
 Hi, I'm Kaixuan Du, a Master student interested in AI algorithm research and engineering.  
 
 
-## 🧑‍🎓 About Me
+## 🧑‍🎓  About Me
 
-Master student, Beihang University
+- Master student, Beihang University
 
-37 Xueyuan Rd., Haidian Dist.
+- 37 Xueyuan Rd., Haidian Dist.
 
-Beijing, China, 100191
+- Beijing, China, 100191
 
 
-## 🏫 Education
+## 🏫  Education
 
 - 2024.09-*Present*    School of Automation Science and Electrical Engineering(SASEE)，Beihang University M.Eng.
 - 2020.09-2024.06    School of Information Science & Technology, Southwest Jiaotong University B.Eng.
 
 
-## 📖 Research Interests
+## 📖  Research Interests
 
 - Large Language Models (LLM)
-  - Fine-turning & Alignment, RLHF, Intelligent Agents, etc.
+  - Fine-turning & Alignment, RLHF, AI Agent, etc.
 - System Modeling and Simulation
   - Intelligent Behavior Modeling, RL-based Agent Competition, etc.
 
 
-## 🍃 Skills
+## 🍃  Skills
 
 - Programming Language: **Python**; **C++**; Java; SQL; etc.
 - Typesetting Language: **LaTeX**; Markdown
