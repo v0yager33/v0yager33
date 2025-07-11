@@ -1,5 +1,12 @@
 ## 👋 Welcome to My GitHub!
-## Kaixuan Du
+Hi, I'm Kaixuan Du, currently pursuing my Master's degree at Beihang University, focusing on LLM technology and System Modeling & Simulation.  
+
+This is my personal GitHub profile — feel free to explore and get in touch!
+
+---
+
+
+## 🧑‍🎓 About Me
 
 Master student, Beihang University
 
@@ -8,16 +15,10 @@ Master student, Beihang University
 Beijing, China, 100191
 
 
----
-
-
 ## 🏫 Education
 
 - 2024.09-*Present*    School of Automation and Electrical Engineering，Beihang University M.Eng.
 - 2020.09-2024.06    School of Science & Technology, Southwest Jiaotong University B.Eng.
-
-
----
 
 
 ## 📖 Research Interests
@@ -27,19 +28,14 @@ Beijing, China, 100191
 - System Modeling and Simulation
 
 
----
-
-
 ## ✋ Skills
 
 - Programming Language: **Python**; **C++**; Java; SQL; etc.
 - Typesetting Language: **LaTeX**; Markdown
 - Programming Framework: **PyTorch**; TensorFlow; LangChain; etc.
 
----
 
-
-## 📬 Get in Touch
+## 📬 Contact
 
 I'm always open to collaboration, discussion, or opportunities.  
 You can reach me at:  
