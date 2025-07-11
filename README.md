@@ -13,8 +13,8 @@ Beijing, China, 100191
 
 ## 🏫 Education
 
-- 2024.09-*Present*    School of Automation and Electrical Engineering，Beihang University M.Eng.
-- 2020.09-2024.06    School of Science & Technology, Southwest Jiaotong University B.Eng.
+- 2024.09-*Present*    School of Automation Science and Electrical Engineering(SASEE)，Beihang University M.Eng.
+- 2020.09-2024.06    School of Information Science & Technology, Southwest Jiaotong University B.Eng.
 
 
 ## 📖 Research Interests
