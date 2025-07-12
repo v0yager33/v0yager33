@@ -1,5 +1,5 @@
 ## 👋  Welcome to My GitHub!
-Hi, I'm Kaixuan Du, a Master student interested in AI algorithm research and engineering.  
+Hi, I'm Kaixuan Du, a BUAAer focusing on AI algorithm research and engineering.  
 
 
 ## 🧑‍🎓  About Me
@@ -21,6 +21,8 @@ Hi, I'm Kaixuan Du, a Master student interested in AI algorithm research and eng
 
 - Large Language Models (LLM)
   - Fine-turning & Alignment, RLHF, AI Agent, etc.
+- Automation and Robotics
+  - RL algorithm, Vision Language Action model(VLA), etc.
 - System Modeling and Simulation
   - Intelligent Behavior Modeling, RL-based Agent Competition, etc.
 
@@ -34,8 +36,7 @@ Hi, I'm Kaixuan Du, a Master student interested in AI algorithm research and eng
 
 ## 📬 Contact
 
-I'm always open to collaboration, discussion, or opportunities.  
-You can reach me at:  
+Always welcome to your collaboration, you can reach me at:  
  📧 Email: kxdu@foxmail.com  
  🌱 Zhihu: https://www.zhihu.com/people/voyager33  
  💬 Rednote: https://www.xiaohongshu.com/user/profile/66bc733e000000001d031cf4  
