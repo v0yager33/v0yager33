@@ -40,7 +40,6 @@ Hi, I'm Kaixuan Du, a BUAAer focusing on AI algorithm research and engineering.
 Always welcome to your collaboration, you can reach me at:  
  📧 Email: kxdu@foxmail.com  
  🌱 Zhihu: https://www.zhihu.com/people/voyager33  
- 💬 Rednote: https://www.xiaohongshu.com/user/profile/66bc733e000000001d031cf4  
 
 ---
 
