@@ -22,8 +22,6 @@ Hi, I'm Kaixuan Du, a BUAAer focusing on AI algorithm research and engineering.
 
 - Large Language Models (LLM)
   - Fine-turning & Alignment, RLHF, AI Agent, etc.
-- Automation and Robotics
-  - RL algorithm, Vision Language Action model(VLA), etc.
 - System Modeling and Simulation
   - Intelligent Behavior Modeling, RL-based Agent Competition, etc.
 
