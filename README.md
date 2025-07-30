@@ -13,7 +13,7 @@ Hi, I'm Kaixuan Du, a BUAAer focusing on AI algorithm research and engineering.
 
 ## 🏫  Education
 
-- 2024.09-*Present*    School of Automation Science and Electrical Engineering(SASEE)，Beihang University(BUAA), M.Eng. 
+- 2024.09-*Present*    School of Automation Science and Electrical Engineering(SASEE), Beihang University(BUAA), M.Eng. 
  
 - 2020.09-2024.06    School of Information Science & Technology, Southwest Jiaotong University(SWJTU), B.Eng.
 
