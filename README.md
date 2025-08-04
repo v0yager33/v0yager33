@@ -20,7 +20,7 @@ Hi, I'm Voyager33, a BUAAer focusing on AI algorithm research and engineering.
 
 ## 📖  Research Interests
 
-- LLM Alignment
+- Fine-turning & Alignment for LLMs
 - AI agent
 
 
