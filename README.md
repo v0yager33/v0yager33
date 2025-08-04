@@ -20,10 +20,8 @@ Hi, I'm Voyager33, a BUAAer focusing on AI algorithm research and engineering.
 
 ## 📖  Research Interests
 
-- Large Language Models (LLM)
-  - Fine-turning & Alignment, RLHF, AI Agent, etc.
-- System Modeling and Simulation
-  - Intelligent Behavior Modeling, RL-based Agent Competition, etc.
+- LLM Alignment
+- AI agent
 
 
 ## 🍃  Skills
