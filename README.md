@@ -1,5 +1,5 @@
 ## 👋  Welcome to My GitHub!
-Hi, I'm Voyager33, a BUAAer focusing on AI algorithm research and engineering.  
+Hi, I'm Kaixuan Du, a BUAAer focusing on AI algorithm research and engineering.  
 
 
 ## ✨  About Me
