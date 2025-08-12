@@ -17,6 +17,10 @@ Hi, I'm Kaixuan Du, a BUAAer focusing on AI algorithm research and engineering.
  
 - 2020.09-2024.06    School of Information Science & Technology, Southwest Jiaotong University(SWJTU), B.Eng.
 
+## 💼 Career
+
+- 2025.06-*Present*    Meituan M17, Intern 
+ 
 
 ## 📖  Research Interests
 
