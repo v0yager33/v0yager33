@@ -19,7 +19,7 @@ Hi, I'm Kaixuan Du, a BUAAer focusing on AI algorithm research and engineering.
 
 ## 💼 Career
 
-- 2025.06-*Present*    Meituan M17, Intern 
+- 2025.06-*Present*    Foundamental Model Group, Meituan M17, Intern 
  
 
 ## 📖  Research Interests
