@@ -1,7 +1,3 @@
-## 👋  Welcome to My GitHub!
-Hi, I'm Kaixuan Du, a BUAAer focusing on AI algorithm research and engineering.  
-
-
 ## ✨  About Me
 
 - Master student, Beihang University
@@ -12,8 +8,7 @@ Hi, I'm Kaixuan Du, a BUAAer focusing on AI algorithm research and engineering.
 
 ## 📖  Research Interests
 
-- LLMs：Fine-turning, Alignment, Explainability, Reasoning, etc.
-
+Currently exploring reinforcement learning (RL) and large reasoning models (LRMs).
 
 ---
 
