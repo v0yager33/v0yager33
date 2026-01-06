@@ -1,14 +1,6 @@
 ## ✨  About Me
-
 - Master student, Beihang University
-
-- 37 Xueyuan Rd., Haidian Dist.
-
-- Beijing, China, 100191
-
-## 📖  Research Interests
-
-Currently exploring reinforcement learning (RL) and large reasoning models (LRMs).
+- Currently exploring reinforcement learning (RL) and large reasoning models (LRMs).
 
 ---
 
