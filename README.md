@@ -1,8 +1,9 @@
 ## ✨  About Me
 - Master student, Beihang University
+- Intern at Qwen Appilcation Group | Previously Intern at Meituan M17(Longcat)
 ## 🌱  Research Interest
-- LLMs/MLLMs and relevant applications.
-- Alignment and Reinforcement Learning (RL).
+- LLMs/MLLMs and relevant applications
+- Alignment and Reinforcement Learning (RL)
 
 ---
 
