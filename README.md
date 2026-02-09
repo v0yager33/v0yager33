@@ -1,6 +1,8 @@
 ## ✨  About Me
 - Master student, Beihang University
-- Currently exploring LLMs/MLLMs and reinforcement learning (RL).
+## 🌱  Research Interest
+- LLMs/MLLMs and relevant applications.
+- Alignment and Reinforcement Learning (RL).
 
 ---
 
