@@ -1,6 +1,6 @@
 ## ✨  About Me
 - Master student, Beihang University
-- Currently exploring reinforcement learning (RL) and large reasoning models (LRMs).
+- Currently exploring LLMs/MLLMs and reinforcement learning (RL).
 
 ---
 
