@@ -5,8 +5,8 @@
 - LLMs/MLLMs and relevant applications
 - Alignment and Reinforcement Learning (RL)
 
- 
-**Feel free to contact me:**
+
+#### **Feel free to contact me:**
 **kxdu@foxmail.com** or **dukaixuan.dkx@gmail.com**
 ---
 
