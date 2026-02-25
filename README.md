@@ -1,6 +1,6 @@
 ## ✨  About Me
 - Master student, Beihang University
-- Intern at Alibaba Qwen Appilcation Bussiness Group | Previously Intern at Meituan M17(Longcat)
+- Intern at Qwen Appilcation Group (Alibaba) | Previously Intern at Meituan M17 Foundational Model Group (Meituan Longcat)
 ## 🌱  Research Interest
 - LLMs/MLLMs and relevant applications
 - Alignment and Reinforcement Learning (RL)
