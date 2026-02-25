@@ -7,7 +7,7 @@
 
 
 #### **Feel free to contact me:**
-**kxdu@foxmail.com** or **dukaixuan.dkx@gmail.com**
+kxdu@foxmail.com or dukaixuan.dkx@gmail.com
 ---
 
 
